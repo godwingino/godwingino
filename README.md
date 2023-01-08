@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @godwingino
-- 👀 I’m interested in Java
+- 👀 I’m interested in Development in Flutter and Web development.
 - 🌱 I’m currently learning Java Programming
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me https://godwingino.ml/
