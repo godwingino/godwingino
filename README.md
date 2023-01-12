@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Godwin Gino</h1>
-<h3>A student frontend developer from India 🇮🇳 , studying Computer Science and Engineering from RSET,Kakkanad.</h3>
+<h3>A student frontend developer from India 🇮🇳 , studying Computer Science and Engineering from RSET,Kakkanad.<img src="https://media.tenor.com/q4L3wKD-P7YAAAAj/hydra-we-bhack.gif"></h3>
 
 - 🌱 I’m currently learning **Java,Python**
 
