@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Godwin Gino</h1>
+<h1>Hi 👋, I'm Godwin Gino</h1>
 <h3 align="center">A student frontend developer from India 🇮🇳 , studying Computer Science and Engineering from RSET,Kakkanad.</h3>
 
 - 🌱 I’m currently learning **Java,Python**
@@ -28,7 +28,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=godwingino&" alt="godwingino" /></p>
 
 
-V I S I T O R - C O U N T
+V I S I T O R - C O U N T : 
 ![Visitor Count](https://profile-counter.glitch.me/godwingino/count.svg)
 <!---
 godwingino/godwingino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
