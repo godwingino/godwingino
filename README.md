@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Godwin Gino</h1>
-<h3>A student frontend developer from India 🇮🇳 , studying Computer Science and Engineering from RSET,Kakkanad. <img align="right" src="https://static.wixstatic.com/media/e01f6d_58672226f95043c58c3c3d51e609cb82~mv2.gif"></h3>
+<h3>A student frontend developer from India 🇮🇳 , studying Computer Science and Engineering from RSET,Kakkanad. <img align="right" src="https://www.webcabal.com/wp-content/uploads/2022/02/developer.gif"></h3>
 
 - 🌱 I’m currently learning **Java,Python**
 
