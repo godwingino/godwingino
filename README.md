@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Godwin Gino</h1>
-<h3>A student frontend developer from India 🇮🇳 , studying Computer Science and Engineering from RSET,Kakkanad.</h3> <img align="right" src="https://www.vkreate.in/storage/services_image/2019-10-02-17-55-54-5d94e4aa809b3-web-development.gif" height="200" width="200">
+<h3>A student frontend developer from India 🇮🇳 , studying Computer Science and Engineering from Rajagiri School of Engineering and Technology,Kakkanad.</h3> <img align="right" src="https://www.vkreate.in/storage/services_image/2019-10-02-17-55-54-5d94e4aa809b3-web-development.gif" height="200" width="200">
 
 - 🌱 I’m currently learning **Java,Python**
 
