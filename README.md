@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/godwingino](https://github.com/godwingino)
 
-- 💬 Ask me about **CSS**
-
 - 📫 How to reach me **godwingino10@gmail.com**
 
 - ⚡ Fun fact **I literally turn coffee ☕ into code 👨‍💻.**
